@@ -1,2 +1,2 @@
-# read_write_GPIOs
+# gpio_test
 Repo to store esp32 projects made in ESP-IDF.
